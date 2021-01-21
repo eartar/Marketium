@@ -26,11 +26,13 @@
     </content>
     <orderEntry type="jdk" jdkName="15" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter-bootstrap:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-context:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-commons:3.0.0" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-config-server:3.0.0" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-config-client:3.0.0" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.4.2" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-commons:3.0.0" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-context:3.0.0" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.11.4" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.11.4" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpclient:4.5.13" level="project" />
@@ -114,7 +116,6 @@
     <orderEntry type="library" name="Maven: com.rabbitmq:amqp-client:5.10.0" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.integration:spring-integration-jmx:5.4.3" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-bus:3.0.0" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter:3.0.0" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.integration:spring-integration-core:5.4.3" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-messaging:5.3.3" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.3.3" level="project" />
