@@ -1,0 +1,6 @@
+encrypt:
+  key-store:
+    location: classpath:marketiumEncryptionKey.jks
+    password: suchsecuremuchwow
+    alias: MarketiumEncryptionKey
+

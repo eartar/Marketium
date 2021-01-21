@@ -1,0 +1,17 @@
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+
+server:
+  port: 8010
+spring:
+  application:
+    name: EurekaServer
+  security:
+    user:
+      name: 2
+      password: 2
+
+eureka.security.user: 1
+eureka.security.pass: 1
